@@ -7,11 +7,11 @@ git add .
 it status
 git commit -m "Fazendo a atividade 1"
 git log
-git remote add origin https://github.com/Matheussilvalopes/Atividade-1.git
+git remote add origin https://github.com/Matheussilvalopes/UC7-Atividade-1.git
 git remote -v
 git push -u origin master
 git add atividade1.txt
 git status
-git commit -m "Alteração no código"
+git commit -m "Fazendo alteração no código"
 git log
 git push origin
